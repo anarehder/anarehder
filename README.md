@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Ana  👋
 
- <img align="right" alt="GIF" src="https://github.com/anarehder/anarehder/blob/main/gif_women.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/anarehder/anarehder/blob/main/gif_women.gif?raw=true" width="450" height="300" />
 
 
 ## I'm a Engineer, Wife, Mother and Developer!!
