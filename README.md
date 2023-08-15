@@ -6,7 +6,7 @@
 
 ## I'm a Engineer, Wife, Mother and Developer!!
 - 🔭 I’m currently finishing my Ph.D.
-- 🌱 I’m currently learning back-end
+- 🌱 I’m currently learning POO
 - 😄 Pronouns: She/Her
 - 📫 How to reach me *anapaularehder@gmail.com*
 
