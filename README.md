@@ -15,9 +15,8 @@
 
 ### Languages and Tools:
 
-| esquerda | centro | direita |
-|:------: |:------:| :------:|
-| <img align="left" alt="JavaScript" heigth="30px"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />      | <img align="left" alt="JavaScript" heigth="30px"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />   | <img align="left" alt="node" heigth="30px"  src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>   |
+|:------:|:------:|:------:|:------:|
+|<img align="left" alt="JavaScript" heigth="30px"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />|<img align="left" alt="typescript" heigth="30px"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />|<img align="left" alt="node" heigth="30px"  src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>|<img align="left" alt="nestJs" heigth="30px"  src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />|
 
 <img align="left" alt="JavaScript" heigth="30px"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="left" alt="typescript" heigth="30px"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
