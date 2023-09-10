@@ -6,7 +6,7 @@
 
 ## I'm a Engineer, Wife, Mother and Developer!!
 - 🔭 I’m currently finishing my Ph.D.
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning Docker <img align="left" alt="HTML5" width="29px" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> 
 - 😄 Pronouns: She/Her
 - 📫 How to reach me *anapaularehder@gmail.com*
 
