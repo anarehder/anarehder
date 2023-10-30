@@ -5,8 +5,8 @@
 
 
 ## I'm a Engineer, Wife, Mother and Developer!!
-- 🔭 I’m currently finishing my Ph.D.
-- 🌱 I’m currently learning Docker
+- 🔭 I’m almost finishing my Ph.D.
+- 🌱 I’m currently learning Java
 - 😄 Pronouns: She/Her
 - 📫 How to reach me *anapaularehder@gmail.com*
 
