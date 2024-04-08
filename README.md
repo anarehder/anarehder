@@ -9,7 +9,7 @@
 - 👩🏼‍💻 I'm working as Software Developer
 - 🌱 I’m currently learning Django
 - 😄 Pronouns: She/Her
-- 📫 How to reach me *anapaularehder@gmail.com*
+- 📫 How to reach me *anapaula.rehder@gmail.com*
 
 - ⚡ Fun fact: I love to learn new languages and practice sports!
 
