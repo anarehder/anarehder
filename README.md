@@ -4,7 +4,7 @@
  <img align="right" alt="GIF" src="https://github.com/anarehder/anarehder/blob/main/gif_women.gif?raw=true" width="450" height="300" />
 
 
-## I'm a Engineer, Wife, Mother and Developer!!
+## I'm an Engineer, Wife, Mother and Developer!!
 - 🔭 I’m almost finishing my Ph.D.
 - 👩🏼‍💻 I'm working as Software Developer
 - 🌱 I’m currently learning Django
