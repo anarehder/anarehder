@@ -7,7 +7,7 @@
 ## I'm an Engineer, Wife, Mother and Developer!!
 - 🔭 I’m almost finishing my Ph.D.
 - 👩🏼‍💻 I'm working as Software Developer
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Java
 - 😄 Pronouns: She/Her
 - 📫 How to reach me *anapaula.rehder@gmail.com*
 
