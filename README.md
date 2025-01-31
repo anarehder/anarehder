@@ -4,10 +4,10 @@
  <img align="right" alt="GIF" src="https://github.com/anarehder/anarehder/blob/main/gif_women.gif?raw=true" width="450" height="300" />
 
 
-## I'm an Engineer, Wife, Mother and Developer!!
-- 🔭 I’m almost finishing my Ph.D.
+## I'm an Engineer, Wife, Mother, Ph.D. and Developer!!
+- 🔭 Ph.D. (Engineering area) - University of São Paulo
 - 👩🏼‍💻 I'm working as Software Developer
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Data Science
 - 😄 Pronouns: She/Her
 - 📫 How to reach me *anapaula.rehder@gmail.com*
 
